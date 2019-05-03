@@ -2,7 +2,6 @@
 
 ### Link - https://shubhamd99.github.io/first-ionic-angular-app/
 
-<br />
 ![alt_img](https://i.imgur.com/iqrxN0y.png)
 
 ### News API used - https://newsapi.org
